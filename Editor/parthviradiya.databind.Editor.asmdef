@@ -1,0 +1,16 @@
+{
+    "name": "parthviradiya.databind.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4ee13270721d8d4c8f6664d6b4c7394"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

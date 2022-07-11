@@ -1,0 +1,24 @@
+{
+  "name": "com.parthvirdiya.databind",
+  "version": "1.0.0",
+  "displayName": "Data Bind",
+  "description": "One-Way MVVM(model view view model) style data-binding for Unity.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "samples": [
+    {
+      "displayName": "DataBind",
+      "description": "Contains sample of DataBind.",
+      "path": "Samples~/SampleDataBind"
+    }
+  ],
+  "author": {
+    "name": "Parth Viradiya",
+    "email": "parthvirdiya2@gmail.com",
+    "url": "https://parthvirdiya.github.io"
+  },
+  "type": "tool"
+}
