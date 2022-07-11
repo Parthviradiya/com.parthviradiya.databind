@@ -16,7 +16,7 @@
 - The scene contains a few sample bindings on single game objects as well as a slightly more complex list example which binds prefab instances to a list of configuration data.
 
 # Usage
--To get started data-binding, first define a new class which extends ViewModel or ViewModelScriptable. ViewModels are Unity MonoBehaviours and ViewModelScriptable are Unity ScriptableObject which should contain several DataSource or DataSourceList fields.
+-First define a new class which extends ViewModel or ViewModelScriptable. ViewModels are Unity MonoBehaviours and ViewModelScriptable are Unity ScriptableObject which should contain several DataSource or DataSourceList fields.
 
 # Example:
 - You can create both the monobehaviour and scriptableobject viewmodels.
