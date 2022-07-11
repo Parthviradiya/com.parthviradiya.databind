@@ -5,9 +5,9 @@
   "description": "One-Way MVVM(model view view model) style data-binding for Unity.",
   "unity": "2020.3",
   "unityRelease": "0b5",
-  "documentationUrl": "",
+  "documentationUrl": "https://github.com/Parthviradiya/com.parthviradiya.databind/blob/main/README.md",
   "changelogUrl": "",
-  "licensesUrl": "",
+  "licensesUrl": "https://github.com/Parthviradiya/com.parthviradiya.databind/blob/main/LICENSE.md",
   "samples": [
     {
       "displayName": "DataBind",
