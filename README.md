@@ -1,22 +1,22 @@
-# DataBind: 
+# Data Binding For Unity: 
 
 - One-Way MVVM(model view view model) style data-binding for Unity.
 
 - Data Bind is a simple data binding system which enables one-way data binding from observable model data to view components.
 
 # Installation
-- Install package via PackageManager by this link: (https://github.com/Parthviradiya/com.parthviradiya.databind.git)
--	Clone or download this repository somewhere in your Unity project’s Assets folder.
+- Install package from PackageManager by this GitUrl: https://github.com/Parthviradiya/com.parthviradiya.databind.git
+- You can also install package samples from package manager window.
 
 # Getting Started
--	Explore the MyExample scene in the package sample folder.
+- Explore the MyExample scene in the package sample folder.
 
--	The scene contains a View Model game object with a ViewModel component And also ViewModel scriptable object with ViewModelScriptable component Change the values on the component to observe changes in the scene.
+- The scene contains a View Model game object with a ViewModel component And also ViewModel scriptable object with ViewModelScriptable component Change the values on the component to observe changes in the scene.
 
--	The scene contains a few sample bindings on single game objects as well as a slightly more complex list example which binds prefab instances to a list of configuration data.
+- The scene contains a few sample bindings on single game objects as well as a slightly more complex list example which binds prefab instances to a list of configuration data.
 
 # Usage
--	To get started data-binding, first define a new class which extends ViewModel or ViewModelScriptable. ViewModels are Unity MonoBehaviours and ViewModelScriptable are Unity ScriptableObject which should contain several DataSource or DataSourceList fields.
+-To get started data-binding, first define a new class which extends ViewModel or ViewModelScriptable. ViewModels are Unity MonoBehaviours and ViewModelScriptable are Unity ScriptableObject which should contain several DataSource or DataSourceList fields.
 
 # Example:
 - You can create both the monobehaviour and scriptableobject viewmodels.
